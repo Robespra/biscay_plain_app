@@ -1,0 +1,72 @@
+2015-05-17 21:22:37.991 biscay_plain_app[97013:746966] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/UXPAGES/Library/Developer/CoreSimulator/Devices/3BE941B0-D054-40DC-A9F6-8A20594FDA00/data/Containers/Data/Application/44E1FD97-837C-4736-850D-732B3F1BA367/Library/Cookies/Cookies.binarycookies
+2015-05-17 21:22:38.208 biscay_plain_app[97013:746966] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 21:22:38.208 biscay_plain_app[97013:746966] Multi-tasking -> Device: YES, App: YES
+2015-05-17 21:22:38.223 biscay_plain_app[97013:746966] Unlimited access to network resources
+2015-05-17 21:22:38.232 biscay_plain_app[97013:746966] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-17 21:22:39.072 biscay_plain_app[97013:746966] Resetting plugins due to page load.
+2015-05-17 21:22:39.230 biscay_plain_app[97013:746966] Finished load of: file:///Users/UXPAGES/Library/Developer/CoreSimulator/Devices/3BE941B0-D054-40DC-A9F6-8A20594FDA00/data/Containers/Bundle/Application/1174F226-E95E-4815-AAAE-2A8C5E195CDD/biscay_plain_app.app/www/index.html
+2015-06-22 14:10:44.999 biscay_plain_app[53033:5366814] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/UXPAGES/Library/Developer/CoreSimulator/Devices/3BE941B0-D054-40DC-A9F6-8A20594FDA00/data/Containers/Data/Application/6EF8CDDE-160F-4A8A-B8B8-0BB04D6BAC90/Library/Cookies/Cookies.binarycookies
+2015-06-22 14:10:45.312 biscay_plain_app[53033:5366814] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-22 14:10:45.313 biscay_plain_app[53033:5366814] Multi-tasking -> Device: YES, App: YES
+2015-06-22 14:10:45.325 biscay_plain_app[53033:5366814] Unlimited access to network resources
+2015-06-22 14:10:45.336 biscay_plain_app[53033:5366814] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-22 14:10:46.158 biscay_plain_app[53033:5366814] Resetting plugins due to page load.
+2015-06-22 14:10:46.956 biscay_plain_app[53033:5366814] Finished load of: file:///Users/UXPAGES/Library/Developer/CoreSimulator/Devices/3BE941B0-D054-40DC-A9F6-8A20594FDA00/data/Containers/Bundle/Application/0B8DCDB1-57C2-4431-89DE-29B5E9F933E3/biscay_plain_app.app/www/index.html
+2015-06-22 15:42:49.802 biscay_plain_app[54131:5404350] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/UXPAGES/Library/Developer/CoreSimulator/Devices/3BE941B0-D054-40DC-A9F6-8A20594FDA00/data/Containers/Data/Application/80409E75-49E9-4862-ADA5-3E11E57E2271/Library/Cookies/Cookies.binarycookies
+2015-06-22 15:42:49.879 biscay_plain_app[54131:5404350] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-22 15:42:49.879 biscay_plain_app[54131:5404350] Multi-tasking -> Device: YES, App: YES
+2015-06-22 15:42:49.881 biscay_plain_app[54131:5404350] Unlimited access to network resources
+2015-06-22 15:42:49.883 biscay_plain_app[54131:5404350] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-22 15:42:50.136 biscay_plain_app[54131:5404350] Resetting plugins due to page load.
+2015-06-22 15:42:50.562 biscay_plain_app[54131:5404350] Finished load of: file:///Users/UXPAGES/Library/Developer/CoreSimulator/Devices/3BE941B0-D054-40DC-A9F6-8A20594FDA00/data/Containers/Bundle/Application/EDBEC30F-35F4-4A02-B8B1-764B4F505D2F/biscay_plain_app.app/www/index.html
+2015-06-22 15:43:05.157 biscay_plain_app[54131:5404350] Resetting plugins due to page load.
+2015-06-22 15:43:05.348 biscay_plain_app[54131:5404350] Finished load of: file:///Users/UXPAGES/Library/Developer/CoreSimulator/Devices/3BE941B0-D054-40DC-A9F6-8A20594FDA00/data/Containers/Bundle/Application/EDBEC30F-35F4-4A02-B8B1-764B4F505D2F/biscay_plain_app.app/www/poesis.html#/
+2015-06-22 15:43:38.128 biscay_plain_app[54883:5407153] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/UXPAGES/Library/Developer/CoreSimulator/Devices/3BE941B0-D054-40DC-A9F6-8A20594FDA00/data/Containers/Data/Application/1EBCC134-9A6E-49AA-9F92-98920935655E/Library/Cookies/Cookies.binarycookies
+2015-06-22 15:43:38.192 biscay_plain_app[54883:5407153] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-22 15:43:38.192 biscay_plain_app[54883:5407153] Multi-tasking -> Device: YES, App: YES
+2015-06-22 15:43:38.194 biscay_plain_app[54883:5407153] Unlimited access to network resources
+2015-06-22 15:43:38.196 biscay_plain_app[54883:5407153] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-22 15:43:38.410 biscay_plain_app[54883:5407153] Resetting plugins due to page load.
+2015-06-22 15:43:38.760 biscay_plain_app[54883:5407153] Finished load of: file:///Users/UXPAGES/Library/Developer/CoreSimulator/Devices/3BE941B0-D054-40DC-A9F6-8A20594FDA00/data/Containers/Bundle/Application/44C0E629-CEF9-48DE-AF0B-DC53C1FF1F19/biscay_plain_app.app/www/index.html
+2015-06-22 15:44:17.113 biscay_plain_app[55643:5409787] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-22 15:44:17.114 biscay_plain_app[55643:5409787] Multi-tasking -> Device: YES, App: YES
+2015-06-22 15:44:17.115 biscay_plain_app[55643:5409787] Unlimited access to network resources
+2015-06-22 15:44:17.119 biscay_plain_app[55643:5409787] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-22 15:44:17.312 biscay_plain_app[55643:5409787] Resetting plugins due to page load.
+2015-06-22 15:44:17.605 biscay_plain_app[55643:5409787] Finished load of: file:///Users/UXPAGES/Library/Developer/CoreSimulator/Devices/3BE941B0-D054-40DC-A9F6-8A20594FDA00/data/Containers/Bundle/Application/D1890A58-3A42-41A2-8E29-BD7AEECF9DE3/biscay_plain_app.app/www/index.html
+2015-06-22 15:45:08.210 biscay_plain_app[55643:5411888] Terminating since there is no system app.
